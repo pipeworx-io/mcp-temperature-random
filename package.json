@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-temperature-random",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "temperature-random MCP — wraps StupidAPIs (keyless — no credential needed)",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-9d6c5518ee20b7983c63ea4ddcc2412edc6f10d546bd967150c9ba90627bbf32",
-    "sourceCommit": "00c836ddeaecbdd581dcfb0fb1842efea104006e"
+    "sourceHash": "v1-77c441839085141360c78a5b680af4f786687e142217b6114a7ded219540b3a8",
+    "sourceCommit": "d4a9636716f113458bd312e487c065f76548df8c"
   }
 }
